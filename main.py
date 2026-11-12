@@ -1,3 +1,7 @@
+"""Entry for the make.fun competition.
+
+Writes entry.png to the output directory.
+"""
 #!/usr/bin/env python3
 import os
 import shutil
